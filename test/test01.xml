@@ -80,12 +80,4 @@
         <postalCode>59076400</postalCode>
         <street>Av. Capitão Mor Gouveia</street>
     </person>
-    <person>
-        <birthday>1999-02-21</birthday>
-        <city>some city</city>
-        <firstName>Teste</firstName>
-        <lastName>A</lastName>
-        <postalCode>1234</postalCode>
-        <street>some street</street>
-    </person>
 </persons>

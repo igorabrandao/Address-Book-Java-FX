@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Address_Book.jnlp">
+  <information>
+    <title>Address_Book</title>
+    <vendor>igorbrandao.com</vendor>
+    <description>AddressBookApp</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Address_Book.jar" size="19741" download="eager" />
+    <jar href="libs/controlsfx-8.0.6_20.jar" size="856539" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="com.igorbrandao.addressbook.MainApp"  name="AddressBookApp" />
+  <update check="background"/>
+</jnlp>
